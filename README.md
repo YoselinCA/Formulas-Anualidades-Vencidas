@@ -131,5 +131,6 @@ tasa_actual <- function(VA, A, n) {
 }
 
 # Ejemplo para tasa de interés futura
-
+```
 i = tasa_actual(10000, 1000, 10)
+```
